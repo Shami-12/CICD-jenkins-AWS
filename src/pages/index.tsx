@@ -36,7 +36,7 @@ export default function Home() {
           />
           <ol>
             <li>
-              ahtisham malik <code>src/pages/index.tsx</code>.
+              ahtisham malik! <code>src/pages/index.tsx</code>.
             </li>
             <li>Save and see your changes instantly.</li>
           </ol>
