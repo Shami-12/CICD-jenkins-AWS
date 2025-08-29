@@ -38,7 +38,7 @@ export default function Home() {
             <li>
               ahtisham malik! <code>src/pages/index.tsx</code>.
             </li>
-            <li>Savee and see your changes instantly.</li>
+            <li>Savee and see your changess instantly.</li>
           </ol>
 
           <div className={styles.ctas}>
