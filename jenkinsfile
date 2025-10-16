@@ -10,7 +10,7 @@ node {
         echo 'Cloning the repo'
         git(
             branch: 'main',
-            url: 'https://github.com/Shami-12/new-repo'
+            url: 'https://github.com/Shami-12/CICD-jenkins-AWS'
         )
     }
 
